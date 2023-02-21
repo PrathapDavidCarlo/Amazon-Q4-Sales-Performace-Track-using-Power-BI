@@ -1,0 +1,23 @@
+# Amazon-Q4-Sales-Performace-Track-using-MSSQL SEVER and Power-BI
+
+This project is built to track the performance of electrical products of Amazon for Q4-2019
+The data set is taken from Kaggle :
+https://www.kaggle.com/datasets/knightbearr/sales-product-data?resource=
+
+Below are the steps to complete this project
+
+1. Importing CSV file and defining data schema by Flat file loading on the MSSQL server
+2. Data cleaning using queries on MSSQL SEVER
+3. Get the data on the Power BI platform using the Import option of Power BI
+4. Data Integration and transformation using Power Query Editor
+  a. Data transformation and initial consolidation using Union, Merge operations. 
+  b. Loading the State abbreviations data and transformation from Wikipedia.
+  c. Importing data drill table using M Language code designed by Devin Knight
+5. Data Modeling using Power Pivot( establishing the relationship between tables and data normalization)
+6. Dax query for data analysis and metrics calculations
+7. Power BI data visualization, reports, and dashboards
+8. Creating Mobile views, filters and button set up and Publish to the Power BI workspace
+9. Create an App, Update App and user access Management setup
+10. Visualize the data on the Power BI App, download reports, embed reports to the platform
+
+ 
