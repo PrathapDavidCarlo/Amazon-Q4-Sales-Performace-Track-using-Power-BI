@@ -10,9 +10,14 @@ Below are the steps to complete this project
 2. Data cleaning using queries on MSSQL SEVER
 3. Get the data on the Power BI platform using the Import option of Power BI
 4. Data Integration and transformation using Power Query Editor
-  a. Data transformation and initial consolidation using Union, Merge operations. 
+
+  a. Data transformation and initial consolidation using Union, Merge operations.
+  
   b. Loading the State abbreviations data and transformation from Wikipedia.
+  https://en.wikipedia.org/wiki/List_of_U.S._state_and_territory_abbreviations
+  
   c. Importing data drill table using M Language code designed by Devin Knight
+  
 5. Data Modeling using Power Pivot( establishing the relationship between tables and data normalization)
 6. Dax query for data analysis and metrics calculations
 7. Power BI data visualization, reports, and dashboards
